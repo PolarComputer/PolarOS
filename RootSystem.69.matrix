@@ -2,9 +2,12 @@
 #!/bin/RootSystem-69
 
 !!RootSystem-69 | Polar Computers Inc. All right Reserved 2016 -- Desgined by Evan Sellers!!
-VersionSystemOS=4.0.0
-SystemVersion=[180]
-MatrixCode=[1016]
-SystemStructure="[64]Bit"
-ServerXML="polartech.co/server/us/RootSystem.69.matrix"
+#This is the update system. The Updators will check this. The will look at there curent version and the it will show the next version.
+#Example "v4.0.0=v4.0.1" meaning that if the system is on 4.0.0v then the next version is 4.0.1v
 
+
+
+!![Version 4.0.1]!!
+
+#CV = NV
+v4.0.0=v4.0.1
