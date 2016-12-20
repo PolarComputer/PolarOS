@@ -1,0 +1,23 @@
+#!/bin/sh
+#!/bin/RootSystem-69
+
+!!RootSystem-69 | Polar Computers Inc. All right Reserved 2016 -- Desgined by Evan Sellers!!
+#This is the update system. The Updators will check this. The will look at there curent version and the it will show the next version.
+#Example "v4.0.0="http://polartech.co/bla-bla-bla"" meaning that if the system is on 4.0.0v then the next version is 4.0.1 and the link is.
+
+#Setup
+# !![Version (Next Version 4 Download)]!!
+# v(Current Version the computer is on)="(The direct link to the file for the download)"
+
+#Example
+# !![Version 4.0.1]!!
+# v4.0.0="http://polartech.co/bla-bla-bla.zip"
+
+############################## RootSystem-69 Matrix - start.js.here ##############################
+
+#!![Version 4.0.1]!!
+4.0.0="http://polartech.co/bla-bla-bla.zip"
+version4.0.0="4.0.1"
+size4.0.0="150 MB"
+description4.0.0=""
+
